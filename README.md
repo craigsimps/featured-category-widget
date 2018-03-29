@@ -18,7 +18,9 @@ Widgetized themes often include support for adding a featured page or post, but 
 
 With Featured Category Widget you can easily featured a blog category (or a category from a custom taxonomy, like products), add a custom image and optionally show the category description and a list of sub categories.
 
-![Example Widget Configuration](https://github.com/craigsimps/featured-category-widget/raw/master/assets/screenshots/screenshot-1.png) ![Example Widget Output](https://github.com/craigsimps/featured-category-widget/raw/master/assets/screenshots/screenshot-2.png)
+![Example Widget Configuration](https://github.com/craigsimps/featured-category-widget/raw/master/assets/screenshots/screenshot-2.jpg) 
+
+![Example Widget Output](https://github.com/craigsimps/featured-category-widget/raw/master/assets/screenshots/screenshot-1.jpg)
 
 Features:
 
