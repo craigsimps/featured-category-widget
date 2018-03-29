@@ -1,0 +1,49 @@
+.widget.featured-category .featured-category-image-link {
+    display: block;
+    margin: 0 0 1.5em;
+    text-decoration: none;
+}
+
+.widget.featured-category .featured-category-image-link img {
+    margin: 0;
+    padding: 0;
+}
+
+.widget.featured-category .featured-category-title {
+    margin: 0;
+    padding: 0;
+}
+
+.widget.featured-category .featured-category-title + .featured-category-description {
+    margin-top: 0.75em;
+}
+
+.widget.featured-category .featured-category-title + .featured-category-child-terms {
+    margin-top: 1.5em;
+}
+
+.widget.featured-category .featured-category-description {
+    margin-bottom: 1.5em;
+}
+
+.widget.featured-category .featured-category-description p:last-of-type {
+    margin-bottom: 0;
+}
+
+.widget.featured-category .featured-category-child-terms {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.widget.featured-category .featured-category-child-term {
+    border-bottom: 1px solid #e3e3e3;
+    border-top-width: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5em 0;
+}
+
+.widget.featured-category .featured-category-child-term:first-of-type {
+    border-top: 1px solid #e3e3e3;
+}

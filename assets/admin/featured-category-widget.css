@@ -1,0 +1,32 @@
+input[type="button"].fc-select-img,
+input[type="button"].fc-remove-img {
+    display: inline-block;
+    margin: 1rem 0 0 0;
+}
+
+input[type="button"].fc-select-img {
+    clear: left;
+}
+
+.fc-preview-img {
+    max-width: 100%;
+    display: block;
+    margin: 1rem 0 0 0;
+}
+
+.fc-placeholder {
+    background: #f1f1f1;
+    border: 1px dashed #b4b9be;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    line-height: 20px;
+    padding: 9px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.u-hidden {
+    display: none !important;
+}

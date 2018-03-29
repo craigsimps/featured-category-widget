@@ -1,0 +1,60 @@
+# Copyright (C) 2018 Craig Simpson
+# This file is distributed under the same license as the Featured Category Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Category Widget\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: featured-category-widget.php:222
+msgid "Title:"
+msgstr "Titre :"
+
+#: featured-category-widget.php:232
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: featured-category-widget.php:233
+msgid "Remove Image"
+msgstr "Supprimer l&#39;image"
+
+#: featured-category-widget.php:237
+msgid "Image Size:"
+msgstr "Taille de l'image :"
+
+#: featured-category-widget.php:245
+msgid "Taxonomy:"
+msgstr "Taxonomie:"
+
+#: featured-category-widget.php:253
+msgid "Category:"
+msgstr "Catégorie:"
+
+#: featured-category-widget.php:262
+msgid "Show Category Description?"
+msgstr "Afficher la description de catégorie?"
+
+#: featured-category-widget.php:268
+msgid "Show Subcategories?"
+msgstr "Afficher les sous-categories?"
+
+#: featured-category-widget.php:324
+msgid "Select Taxonomy"
+msgstr "Sélectionnez la taxonomie"
+
+#: featured-category-widget.php:359
+msgid "Select Category"
+msgstr "Par catégorie"
