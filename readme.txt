@@ -38,5 +38,8 @@ Features:
 
 == Changelog ==
 
+= 1.0.1 =
+* Fix: Prevent jQuery setting all widget images to the last uploaded when using multiple widgets in Appearance > Widgets.
+
 = 1.0.0 =
 * Initial release.

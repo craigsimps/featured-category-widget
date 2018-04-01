@@ -13,8 +13,12 @@
         removeButton.addClass('u-hidden');
     });
 
-    $(document).on('click', 'input.fc-select-img, span.fc-placeholder', function (e) {
-        var addButton = $('input.fc-select-img');
+    $(document).on('click', 'span.fc-placeholder', function(e) {
+       $(this).nextAll('input.fc-select-img').trigger('click');
+    });
+
+    $(document).on('click', 'input.fc-select-img', function (e) {
+        var addButton = $(this);
         var mediaLibrary = wp.media.frames.mediaLibrary = wp.media({
             title:    'Select or upload image',
             library:  {

@@ -14,7 +14,7 @@
  * Plugin Name:       Featured Category Widget
  * Plugin URI:        https://craigsimpson.scot/featured-category-widget
  * Description:       Showcase a specific category with ease, including setting a featured image and optionally listing child categories.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Craig Simpson
  * Author URI:        https://craigsimpson.scot/
  * License:           GPL2
